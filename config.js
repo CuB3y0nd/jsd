@@ -22,7 +22,7 @@ export const CONFIG = {
     ],
     // 白名单模式时使用 (只允许这些仓库)
     whitelist: [
-      "CuB3y0nd/picx-images-hosting"
+      "CuB3y0nd/picx-images-hosting@master"
     ]
   },
 
